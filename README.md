@@ -1,2 +1,2 @@
 # Kenye-Quote-App
-This applications displays Kanye West quotes using app and Tkinter
+This applications displays Kanye West quotes using API and Tkinter
